@@ -1,6 +1,6 @@
 # Hi, I'm Sehyeon (Scott) 👋
 
-### I am a 4th year student majoring in Computer Science. I am taking a break from school but will be going back Fall 2022.
+### I am a 4th year student majoring in Computer Science
 
 #### 🌱 I’m currently learning
 * React
