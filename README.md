@@ -3,7 +3,7 @@
 ### I am a 4th year student majoring in Computer Science
 
 #### 🌱 I’m currently learning
-* React
+* React and React Native
 * JavaScript/TypeScript
 * Node
 
