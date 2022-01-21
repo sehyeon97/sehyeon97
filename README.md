@@ -7,7 +7,7 @@
 * JavaScript/TypeScript
 * Node
 
-#### 🏔️ I'm currently working on personal projects to help me learn more about web development. I am also working on a team project called game-stats with a friend.
+#### 🏔️ I'm currently working on personal projects to help me learn more about web development. I am also working on a team project with a friend.
 
 #### 🏗️ 2022 Goals: Build a full-stack web application 💦
 
