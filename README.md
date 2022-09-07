@@ -1,15 +1,15 @@
 # Hi, I'm Sehyeon (Scott) 👋
 
-### I am a 4th year student majoring in Computer Science
+### I am a 3rd year student majoring in Software Engineering
 
 #### 🌱 I’m currently learning
 * React and React Native
 * JavaScript/TypeScript
 * Node
 
-#### 🏔️ I'm currently working on personal projects to help me learn more about web development. I am also working on a team project with a friend.
+#### 🏔️ I'm currently working on personal projects to help me learn more about web and mobile development.
 
-#### 🏗️ 2022 Goals: Build a full-stack web application 💦
+#### 🏗️ 2022 Goals: Build a piano 
 
 ###### Interesting fact: I have worked on building a game from scratch using Java 🥵
 
