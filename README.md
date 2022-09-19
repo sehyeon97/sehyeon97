@@ -9,7 +9,7 @@
 
 #### 🏔️ I'm currently working on personal projects to help me learn more about web and mobile development.
 
-#### 🏗️ 2022 Goals: Build a piano 
+#### 🏗️ 2022 Year End Goals: Publish the starbucks_custom_drinks app to the app store. 
 
 ###### Interesting fact: I have worked on building a game from scratch using Java 🥵
 
