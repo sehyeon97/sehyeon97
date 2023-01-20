@@ -9,7 +9,7 @@
 
 #### 🏔️ I'm currently working on personal projects to help me learn more about web and mobile development.
 
-#### 🏗️ 2022 Year End Goals: Publish the starbucks_custom_drinks app to the app store. 
+#### 🏗️ 2023 Goals: Publish the starbucks_custom_drinks app to the app store / build a portfolio. 
 
 ###### Interesting fact: I have worked on building a game from scratch using Java 🥵
 
