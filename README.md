@@ -3,13 +3,14 @@
 ### I am a 3rd year student majoring in Software Engineering
 
 #### 🌱 I’m currently learning
-* React and React Native
+* React
 * JavaScript/TypeScript
 * Node
+* Puppeteer / Web Scraping
 
-#### 🏔️ I'm currently working on personal projects to help me learn more about web and mobile development.
+#### 🏔️ I'm currently working on personal projects to help me learn more about web development.
 
-#### 🏗️ 2023 Goals: Publish the starbucks_custom_drinks app to the app store / build a portfolio. 
+#### 🏗️ 2023 Goals: Build a full stack web application / build a portfolio. 
 
 ###### Interesting fact: I have worked on building a game from scratch using Java 🥵
 
