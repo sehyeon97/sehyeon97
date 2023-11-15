@@ -1,16 +1,20 @@
 # Hi, I'm Sehyeon (Scott) 👋
 
-### I am a 3rd year student majoring in Software Engineering
+### I am a 4th year student majoring in Software Engineering
 
-#### 🌱 I’m currently learning
+#### 🌱 I’m interested in
 * React
 * JavaScript/TypeScript
-* Node
+* NodeJS
 * Puppeteer / Web Scraping
+* Flutter & Dart
+* Web Development
+* Mobile App Development
+* Writing for readability, reusability, scalability
 
-#### 🏔️ I'm currently working on personal projects to help me learn more about web development.
+#### 🏔️ I'm currently working on personal projects to help me learn more about web and mobile development.
 
-#### 🏗️ 2023 Goals: Build a full stack web application / build a portfolio. 
+#### 🏗️ 2024 Goals: Build my own portfolio website and landing an internship. 
 
 ###### Interesting fact: I have worked on building a game from scratch using Java 🥵
 
