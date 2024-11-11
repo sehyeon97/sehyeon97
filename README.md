@@ -14,9 +14,7 @@
 
 #### 🏔️ I'm currently working on personal projects to help me learn more about web and mobile development.
 
-#### 🏗️ 2024 Goals: Build my own portfolio website and landing an internship. 
-
-###### Interesting fact: I have worked on building a game from scratch using Java 🥵
+#### 🏗️ Current Goal: Learn to solve the various problems on LeetCode.
 
 <!--
 **sehyeon97/sehyeon97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
