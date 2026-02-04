@@ -2,7 +2,7 @@
 
 ### I am a recent Software Engineering graduate actively seeking Software Engineering roles.
 
-#### 🌱 I’m take interest in and constantly learn about
+#### 🌱 I take interest in and constantly learn about
 * React
 * JavaScript/TypeScript
 * NodeJS
