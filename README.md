@@ -1,20 +1,21 @@
 # Hi, I'm Sehyeon (Scott) 👋
 
-### I am a 4th year student majoring in Software Engineering
+### I am a recent Software Engineering graduate actively seeking Software Engineering roles.
 
-#### 🌱 I’m interested in
+#### 🌱 I’m take interest in and constantly learn about
 * React
 * JavaScript/TypeScript
 * NodeJS
-* Puppeteer / Web Scraping
+* Web Scraping
 * Flutter & Dart
-* Web Development
-* Mobile App Development
+* Java & Spring Boot
+* Web & Mobile Development
+* Fintech
 * Writing for readability, reusability, scalability
 
-#### 🏔️ I'm currently working on personal projects to help me learn more about web and mobile development.
+#### 🏔️ I'm currently working on MonFin project to boost my understanding of a full-scale full-stack application and finance.
 
-#### 🏗️ Current Goal: Learn to solve the various problems on LeetCode.
+#### 🏗️ Current Goal: Finish Monfin, showcase its awesomeness, and land an entry-level Software Engineering job to further advance my knowledge and capabilities.
 
 <!--
 **sehyeon97/sehyeon97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
