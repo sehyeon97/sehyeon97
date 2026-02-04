@@ -5,13 +5,12 @@
 #### 🌱 I take interest in and constantly learn about
 * React
 * JavaScript/TypeScript
-* NodeJS
 * Web Scraping
 * Flutter & Dart
 * Java & Spring Boot
 * Web & Mobile Development
 * Fintech
-* Writing for readability, reusability, scalability
+* Writing for readability, reusability, scalability, security
 
 #### 🏔️ I'm currently working on MonFin project to boost my understanding of a full-scale full-stack application and finance.
 
