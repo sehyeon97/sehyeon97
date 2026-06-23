@@ -14,9 +14,10 @@
 * Writing for readability, reusability, scalability, security
 
 #### 🏔️ I'm currently working on MonFin project to boost my understanding of a full-scale, full-stack web application and learn more about finance.
-HIGH💡s: 🔆 Shows how money moves from a customer to a merchant via bank/token service provider and a payment processor. 
-          🔆 Data Transfer Objects, Tokenization, Hash-based Message Authentication Code, Model-View-Controller, self-made Fraud Prevention Rules, and much more!
-          🔆 !TUNE IN FOR THE YOUTUBE DEMO RELEASE ON SEPTEMBER 2026 SHOWCASING THE Minimum Viable Product!
+HIGH💡s:
+🔆 Shows how money moves from a customer to a merchant via bank/token service provider and a payment processor.
+🔆 Data Transfer Objects, Tokenization, Hash-based Message Authentication Code, Model-View-Controller, self-made Fraud Prevention Rules, and much more!
+🔆 !TUNE IN FOR THE YOUTUBE DEMO RELEASE ON SEPTEMBER 2026 SHOWCASING THE Minimum Viable Product!
 
 #### 🏗️ Current Goal: Finish Monfin MVP by Sept. 2026, showcase its awesomeness, and land an entry-level Software Engineering job to take my limits to the sky.
 
