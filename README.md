@@ -22,7 +22,7 @@
 ### 🔆 Data Transfer Objects, Tokenization, Hash-based Message Authentication Code, Model-View-Controller, Fraud Prevention Rules, and much more!
 ### 🔆 !TUNE IN FOR THE YOUTUBE DEMO RELEASE ON SEPTEMBER 2026 SHOWCASING THE Minimum Viable Product!
 
-#### 🏗️ Current Goal: Finish Monfin MVP by Sept. 2026, showcase its awesomeness, and land an entry-level Software Engineering job to take my limits to the sky.
+#### 🏗️ Current Goal: Finish Monfin MVP by Oct. 2026, showcase its awesomeness, and land an entry-level Software Engineering job to take my limits to the sky.
 
 #### 🌠 Next Goal: Add features and more extensive security procedures to Monfin.
 #### 🌠 Next Goal (continued): Add a payment credential platform (e.g. like Wallet) built using Flutter that will communicate with Monfin.
