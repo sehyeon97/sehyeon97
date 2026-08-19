@@ -20,7 +20,7 @@
 ### 🔆 Backend of bank/tsp built using Java and Spring with Postgresql.
 ### 🔆 Backend of payment processor built with NodeJS and Postgresql.
 ### 🔆 Data Transfer Objects, Tokenization, Hash-based Message Authentication Code, Model-View-Controller, Fraud Prevention Rules, and much more!
-### 🔆 !TUNE IN FOR THE YOUTUBE DEMO RELEASE ON SEPTEMBER 2026 SHOWCASING THE Minimum Viable Product!
+### 🔆 !TUNE IN FOR THE YOUTUBE DEMO RELEASE ON OCTOBER 2026 SHOWCASING THE Minimum Viable Product!
 
 #### 🏗️ Current Goal: Finish Monfin MVP by Oct. 2026, showcase its awesomeness, and land an entry-level Software Engineering job to take my limits to the sky.
 
